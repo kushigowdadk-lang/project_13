@@ -1,8 +1,5 @@
-Here’s a clean, professional **README.md** you can directly paste into your GitHub repo 👇
 
----
-
-# 🧠 Breast Cancer Detection using SVM
+ Breast Cancer Detection using SVM
 
 This project uses **Machine Learning (Support Vector Machine)** to classify breast cancer tumors as **Malignant** or **Benign** using a built-in dataset from `sklearn`.
 
@@ -20,7 +17,7 @@ This project uses **Machine Learning (Support Vector Machine)** to classify brea
 
  Technologies Used
 
-* Python 🐍
+* Python 
 * NumPy
 * Pandas
 * Scikit-learn
